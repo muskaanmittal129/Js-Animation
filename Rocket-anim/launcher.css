@@ -1,0 +1,31 @@
+ body{
+               background-image:url("images/black.jpg");
+               background-repeat: no-repeat;
+               background-size: 100%;
+              
+             
+           }
+          
+           #rocket{
+               width:200px;
+               height: 200px;
+               position:absolute;
+               top:350px;
+               left:500px;
+           }
+           .platform{
+               width:500px;
+               height:1px;
+               background-color: white;
+               position:absolute;
+               top:550px;
+               left:400px;
+           }
+           #text{ position:absolute;
+               top:200px;
+               left:530px;
+               width:170px;
+               height: 150px;
+               display:none;
+               
+           }
